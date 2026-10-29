@@ -12,9 +12,8 @@
   Ho Chi Minh City, Vietnam
 </p>
 
-> **👋 About Me**: Computer Science student at **Ton Duc Thang University (TDTU)** (2023 – 2027), focused on **Natural Language Processing** and **Large Language Models**. I build RAG and LLM-powered systems end to end, from hybrid retrieval and fine-tuning to the APIs and containers that serve them.
+> **👋 About Me**: 4th-year **Computer Science** student at **Ton Duc Thang University (TDTU)** and an **AI Engineer** based in Ho Chi Minh City, Vietnam. I build reliable, evidence-grounded AI systems with a primary focus on **LLM & RAG** (hybrid retrieval, grounded question answering) and **Multimodal AI** (vision-language models, domain fine-tuning).
 >
-> 📐 **Core Principle**: *"Retrieve → Ground → Evaluate"*: every answer should be backed by evidence, and every system should be measured.
 
 ## Selected Work
 
