@@ -1,4 +1,4 @@
-<h1 align="center">Phan Minh Nhat</h1>
+<h1 align="center">Phan Minh Nhật</h1>
 
 <p align="center">
   <b>AI Engineer · LLM & RAG Systems · Backend Developer</b>
